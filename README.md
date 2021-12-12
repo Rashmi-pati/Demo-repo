@@ -10,3 +10,7 @@ i am rashmi patil
 # Local Development
 
 1.open index.html in your browser
+
+# adding new line
+
+i am Rashmi Patil
